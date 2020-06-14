@@ -1,5 +1,7 @@
 module github.com/AlanPere/twittor
 
-required(
+go 1.12
+
+require (
 
 )
